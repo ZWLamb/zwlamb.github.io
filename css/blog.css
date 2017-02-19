@@ -25,6 +25,8 @@ a{
 .nav{
   display: block;
   color: white;
+  height: 22px;
+  line-height: 22px;
   padding-top: 9px;
   padding-bottom: 9px;
   margin-left: 20px;
